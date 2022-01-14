@@ -20,6 +20,7 @@ button{
 }
 .middle{
   display:flex;
+  flex-shrink:1;
 }
 .content{
   background-image:url("files/images/contentBackground.png");
